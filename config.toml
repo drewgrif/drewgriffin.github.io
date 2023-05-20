@@ -1,4 +1,4 @@
-baseURL = 'http://drewgriffin.github.io/'
+baseURL = 'https://drewgrif.github.io/drewgriffin.github.io/'
 languageCode = 'en-us'
 title = 'FloridaCrackr'
 theme="anatole"
