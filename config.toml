@@ -8,7 +8,7 @@ title = "FloridaCrackr"
 author = "Drew Griffin"
 description = "Just a cracker"
 profilePicture = "https://secure.gravatar.com/avatar/ef0b8fb6ecaf02d8e5c3d236877ae4e0?s=250&d=mm&r=g"
-
+canonifyURLs = true
 hidesidebar = true
 
 [[params.socialIcons]]
