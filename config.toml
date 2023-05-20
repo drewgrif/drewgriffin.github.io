@@ -1,0 +1,68 @@
+baseURL = 'http://drewgriffin.github.io/'
+languageCode = 'en-us'
+title = 'FloridaCrackr'
+theme="anatole"
+
+[params]
+title = "FloridaCrackr"
+author = "Drew Griffin"
+description = "Just a cracker"
+profilePicture = "https://secure.gravatar.com/avatar/ef0b8fb6ecaf02d8e5c3d236877ae4e0?s=250&d=mm&r=g"
+
+hidesidebar = true
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/drewgriffincom/"
+
+[[params.socialIcons]]
+icon = "fab fa-facebook"
+title = "facebook"
+url = "https://www.facebook.com/drewgriffincom/"
+
+[[params.socialIcons]]
+icon = "fab fa-instagram"
+title = "instagram"
+url = "https://instagram.com/FloridaCrackr"
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "twitter"
+url = "https://twitter.com/FloridaCrackr"
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/posts/"
+
+  [[menu.main]]
+  name = "Recipes"
+  weight = 250
+  identifier = "recipes"
+  url = "/tags/recipes/"
+
+  [[menu.main]]
+  name = "Privacy"
+  weight = 300
+  identifier = "privacy"
+  url = "/privacy"
+
+  [[menu.main]]
+  name = "About"
+  weight = 400
+  identifier = "about"
+  url = "/about/"
+
+[mermaid]
+# enable = true
+
