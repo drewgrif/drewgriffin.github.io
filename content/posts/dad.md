@@ -6,7 +6,7 @@ tags: [family,memories]
 
 ## Remembering Dad
 
-![](./images/m_and_d.jpg)
+![](../../images/m_and_d.jpg)
 
 When I was 20 years old, my granddad (we called him Papa) passed away. He was 92 years old. He was the father of seven and had been married 62 years until my Grandma Griffin had passed two years prior. My dad, Jack, was the youngest of the Griffin kids. During the graveside service, it seemed like there were well over one hundred people in attendance. I knew most of the onlookers because the family get-togethers were a gracious plenty to use a grandma phrase and with six sets of aunts and uncles and all of my first cousins. The Griffins were a large group.
 
