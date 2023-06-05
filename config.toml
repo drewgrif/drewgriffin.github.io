@@ -31,6 +31,11 @@ icon = "fab fa-twitter"
 title = "twitter"
 url = "https://twitter.com/FloridaCrackr"
 
+[[params.socialIcons]]
+icon = "fab fa-rss"
+title = "rss"
+url = "/index.xml"
+
 [menu]
 
   [[menu.main]]
