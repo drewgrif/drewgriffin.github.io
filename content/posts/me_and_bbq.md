@@ -35,6 +35,7 @@ I would say my current ranking quality:
 
 I will start posting a bit more about recipes, equipment, wood fuel, and processes in future posts.
 
+Mom's birthday might reposition the current ranking.  Ribs #1.
 Until then, ***smell that smoke.***
 
 
