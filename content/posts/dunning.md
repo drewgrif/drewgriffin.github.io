@@ -65,6 +65,3 @@ To counteract these biases:
 
 Understanding heuristics, the bandwagon effect, and the Dunning-Kruger effect can help us make better decisions and engage in more thoughtful discussions. By recognizing these influences and striving for a deeper understanding, we can contribute to a more informed and rational public discourse.
 
----
-
-This version maintains your personal examples and experiences while explaining the concepts in a more relatable and straightforward manner.
