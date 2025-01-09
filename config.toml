@@ -61,7 +61,7 @@ url = "https://twitter.com/FloridaCrackr"
   name = "About"
   weight = 400
   identifier = "about"
-  url = "/about/"
+  url = "/about"
 
 [mermaid]
 # enable = true
